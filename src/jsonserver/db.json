@@ -1,0 +1,66 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Viet Anh",
+      "email": "anhnvvhe172322@fpt.edu.vn",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "password": "456"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 1200
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "price": 700
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "customerId": "1",
+      "productId": "2",
+      "quantity": "2141234"
+    },
+    {
+      "id": "de3a",
+      "customerId": "1",
+      "productId": "2",
+      "quantity": "11"
+    },
+    {
+      "id": "8527",
+      "customerId": "2",
+      "productId": "1",
+      "quantity": "44"
+    },
+    {
+      "id": "8bea",
+      "customerId": "2",
+      "productId": "2",
+      "quantity": "4"
+    },
+    {
+      "customerId": "2",
+      "productId": "1",
+      "quantity": "10",
+      "id": "i0M-l7Z"
+    },
+    {
+      "customerId": "1",
+      "productId": "1",
+      "quantity": "12",
+      "id": "8m5oKVj"
+    }
+  ]
+}
